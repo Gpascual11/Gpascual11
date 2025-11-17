@@ -100,5 +100,8 @@
   <i>"Daemons. They don't stop working. They are always active. They seduce. They manipulate. They own us."</i>
   <br>
   <br>
+  <i>"Fuck Society"</i>
+  <br>
+  <br>
   <b>- Elliot Alderson</b>
 </p>
