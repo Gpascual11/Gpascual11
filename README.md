@@ -63,23 +63,23 @@
 ## Pinned Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=InfraETL1&theme=darcula&show_icons=true&hide_border=false" alt="InfraETL1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=FaaS-Java&theme=darcula&show_icons=true&hide_border=false" alt="FaaS-Java" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=InfraETL1&theme=dracula&show_icons=true&hide_border=false" alt="InfraETL1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=FaaS-Java&theme=dracula&show_icons=true&hide_border=false" alt="FaaS-Java" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=Film-Recommender-using-DS&theme=darcula&show_icons=true&hide_border=false" alt="Film-Recommender-using-DS" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=FaaS_Scala&theme=darcula&show_icons=true&hide_border=false" alt="FaaS_Scala" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=Film-Recommender-using-DS&theme=dracula&show_icons=true&hide_border=false" alt="Film-Recommender-using-DS" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=FaaS_Scala&theme=dracula&show_icons=true&hide_border=false" alt="FaaS_Scala" />
 </p>
 
 ## GitHub Stats & Trophies:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gpascual11&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gpascual11&theme=darcula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gpascual11&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Gpascual11&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpascual11&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpascual11&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
