@@ -16,7 +16,6 @@ IT engineer currently studying a master of Data Science at URL - La Salle BCN
 ![](https://github-readme-stats.vercel.app/api?username=Gpascual11 &theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gpascual11 &theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpascual11 &theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
