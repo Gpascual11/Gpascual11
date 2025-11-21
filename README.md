@@ -74,16 +74,11 @@
 ## GitHub Stats & Trophies:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gpascual11&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Gpascual11&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpascual11&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gpascual11&theme=dracula&margin-w=15&margin-h=15&title=-Stars" alt="GitHub Trophies" />
 </p>
 
 ## Recent GitHub Activity:
