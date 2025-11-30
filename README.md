@@ -75,8 +75,8 @@
   <a href="https://github.com/Gpascual11/Film-Recommender-using-DS">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=Film-Recommender-using-DS&theme=dracula&show_icons=true&hide_border=false" alt="Film-Recommender-using-DS" />
   </a>
-  <a href="https://github.com/Gpascual11/FaaS_Scala">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=FaaS_Scala&theme=dracula&show_icons=true&hide_border=false" alt="FaaS_Scala" />
+  <a href="https://github.com/Gpascual11/[BaronBatch-ETL](https://github.com/Gpascual11/BaronBatch-ETL)">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=BaronBatch-ETL&theme=dracula&show_icons=true&hide_border=false" alt="BaronBatch-ETL" />
   </a>
 </p>
 
