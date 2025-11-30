@@ -1,18 +1,17 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Gerard%20Pascual&descAlignY=51&descAlign=62" />
+</div>
+
+# About Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gpascual11&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Gpascual11" />
+  IT Engineer currently studying a Master's in Data Science at URL - La Salle BCN.
+  <br><br>
+  <b>Education:</b> Bachelor's degree in Computer Engineering at Universitat Rovira i Virgili.
+  <br>
+  <b>Experience:</b> Worked with the iTAKA research group.
 </p>
 
-# About Me:
-<p align="center">
-  IT engineer currently studying a master of Data Science at URL - La Salle BCN
-  <br>
-  - Bachelor's degree in Computer Engineering at Universitat Rovira i Virgili.
-  <br>
-  - Worked with the iTAKA research group.
-</p>
-
-## Socials:
+## Socials
 <p align="center">
   <a href="https://discord.gg/D5YNqWRu">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
@@ -25,88 +24,119 @@
   </a>
 </p>
 
-# Tech Stack:
+---
+
+## Tech Stack
+
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Script">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".Net">
-  <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green" alt="nVIDIA">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13" alt="Inkscape">
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" alt="Gimp">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Script">
+</p>
+
+<h3 align="center">Data Science & AI</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green" alt="nVIDIA">
+</p>
+
+<h3 align="center">Web & Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
+<h3 align="center">Infrastructure, DB & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white" alt="Riot Games">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino">
 </p>
+
+---
 
 ## Pinned Projects
 
-## Pinned Projects
-<p align="center">
-  <a href="https://github.com/Gpascual11/InfraETL1">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=InfraETL1&theme=dracula&show_icons=true&hide_border=false" alt="InfraETL1" />
-  </a>
-    <a href="https://github.com/Gpascual11/BaronBatch-ETL">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=BaronBatch-ETL&theme=dracula&show_icons=true&hide_border=false" alt="BaronBatch-ETL" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Gpascual11/FaaS-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=FaaS-Java&theme=dracula&show_icons=true&hide_border=false" alt="FaaS-Java" />
-  </a>
-  
-  <a href="https://github.com/Gpascual11/Film-Recommender-using-DS">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Gpascual11&repo=Film-Recommender-using-DS&theme=dracula&show_icons=true&hide_border=false" alt="Film-Recommender-using-DS" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Gpascual11/InfraETL1">InfraETL1</a></h3>
+      <p>Secure ETL pipeline for user data with password auditing. Deployable in three modes: Local, Distributed (2 VMs), and AWS Cloud (EC2 + RDS) with an interactive dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Distributed-System-blue" alt="Distributed">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Gpascual11/BaronBatch-ETL">BaronBatch-ETL</a></h3>
+      <p>A distributed ETL pipeline for League of Legends analytics. Built with Docker, FastAPI, Redis, and MongoDB to bypass rate limits and process match data in real-time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/ETL-Pipeline-green" alt="ETL">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Gpascual11/FaaS-Java">FaaS-Java</a></h3>
+      <p>Function-as-a-Service (FaaS) implementation. Using controllers, invokers, Map Reduce and design patterns: Strategy (Policy Manager), Observer, Decorator, and Reflection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Cloud-Architecture-blueviolet" alt="Cloud">
+      </p>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Gpascual11/Film-Recommender-using-DS">Film Recommender</a></h3>
+      <p>Efficient film recommendation engine built using advanced Data Structures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Algorithms-Data%20Structures-ff69b4" alt="Algorithms">
+      </p>
+    </td>
+  </tr>
+</table>
 
-## GitHub Stats & Trophies:
+## GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Gpascual11&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpascual11&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gpascual11&theme=dracula" alt="Top Languages" />
 </p>
 
-## Recent GitHub Activity:
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gpascual11&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
+<br>
+
 ### Favorite Quote
 <p align="center">
-  <img src="https://i.pinimg.com/originals/37/74/61/377461774f7b7d52fd44a5be8533ee81.jpg" alt="Elliot Anderson" width="500" />
+  <img src="https://i.pinimg.com/originals/37/74/61/377461774f7b7d52fd44a5be8533ee81.jpg" alt="Elliot Anderson" width="400" />
 </p>
 <p align="center">
   <i>"Daemons. They don't stop working. They are always active. They seduce. They manipulate. They own us."</i>
-  <br>
-  <br>
+  <br><br>
   <i>"Fuck Society"</i>
-  <br>
-  <br>
+  <br><br>
   <b>- Elliot Alderson</b>
 </p>
