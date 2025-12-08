@@ -129,9 +129,8 @@
 
 <br>
 
-### Favorite Quote
 <p align="center">
-  <img src="https://i.pinimg.com/originals/37/74/61/377461774f7b7d52fd44a5be8533ee81.jpg" alt="Elliot Anderson" width="400" />
+  <img src="https://i.pinimg.com/736x/b1/2e/84/b12e844a15fce95b31054f3fb7b1b2ff.jpg" alt="Kakashi" width="400" />
 </p>
 <p align="center">
   <i>"Daemons. They don't stop working. They are always active. They seduce. They manipulate. They own us."</i>
