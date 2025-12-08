@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Gerard%20Pascual&descAlignY=51&descAlign=62" />
 </div>
 
+<p align="center">
+  <i>“I don’t want to rule anything. Being King of the Pirates is about being more free than anyone.”</i>
+    <br><br>
+  <b>- Monkey D Luffy</b>
+</p>
+  
 # About Me
 <p align="center">
   IT Engineer currently studying a Master's in Data Science at URL - La Salle BCN.
@@ -134,8 +140,6 @@
 </p>
 <p align="center">
   <i>"Daemons. They don't stop working. They are always active. They seduce. They manipulate. They own us."</i>
-  <br><br>
-  <i>"Fuck Society"</i>
   <br><br>
   <b>- Elliot Alderson</b>
 </p>
