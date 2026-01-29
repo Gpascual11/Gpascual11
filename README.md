@@ -140,12 +140,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gpascual11&theme=dracula" alt="Top Languages" />
 </p>
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gpascual11&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
 <br>
 
 <p align="center">
