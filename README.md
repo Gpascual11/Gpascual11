@@ -92,68 +92,98 @@
 ## Pinned Projects
 
 <table>
-  <tr>
-    <td width="50%">
+  <td width="50%">
       <h3><a href="https://github.com/Gpascual11/InfraETL1">InfraETL1</a></h3>
       <p>Secure ETL pipeline for user data with password auditing. Deployable in three modes: Local, Distributed (2 VMs), and AWS Cloud (EC2 + RDS) with an interactive dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Distributed-System-blue" alt="Distributed">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Distributed-System-blue">
+        <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/EC2-Compute-ff9900?logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/RDS-Database-527FFF?logo=amazonaws&logoColor=white">
       </p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Gpascual11/BaronBatch-ETL">BaronBatch-ETL</a></h3>
       <p>A distributed ETL pipeline for League of Legends analytics. Built with Docker, FastAPI, Redis, and MongoDB to bypass rate limits and process match data in real-time.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/ETL-Pipeline-green" alt="ETL">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/ETL-Pipeline-green">
+        <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white">
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Gpascual11/FaaS-Java">FaaS-Java</a></h3>
       <p>Function-as-a-Service (FaaS) implementation. Using controllers, invokers, Map Reduce and design patterns: Strategy (Policy Manager), Observer, Decorator, and Reflection.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Cloud-Architecture-blueviolet" alt="Cloud">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Cloud-Architecture-blueviolet">
       </p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Gpascual11/Film-Recommender-using-DS">Film Recommender</a></h3>
       <p>Efficient film recommendation engine built using advanced Data Structures.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Algorithms-Data%20Structures-ff69b4" alt="Algorithms">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Algorithms-Data%20Structures-ff69b4">
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Gpascual11/ElasticDrive">ElasticDrive</a></h3>
-      <p>An intelligent system that implements a complete pipeline that goes from data cleaning to the deployment of a web application, using Clustering algorithms to segment the market and Predictive Models to establish base prices, finally applying a layer of Business Elasticity.</p>
+      <p>An intelligent system that implements a complete pipeline from data cleaning to deployment of a web application, using Clustering algorithms for market segmentation and Predictive Models for price estimation, enhanced with a Business Elasticity layer.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/ETL-Pipeline-green" alt="ETL">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/ML-Pipeline-orange">
       </p>
     </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Gpascual11/Craigslist_Price_Lens">Craigslist Price Lens</a></h3>
+      <p>An end-to-end ML pipeline for used car price prediction using H2O.ai, Polars, and MongoDB, optimized for high performance in resource-constrained environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/H2O.ai-ML-blue">
+        <img src="https://img.shields.io/badge/Polars-DataFrame-lightgrey">
+        <img src="https://img.shields.io/badge/MongoDB-Database-green">
+      </p>
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>Master Subjects</h3>
       <h4><a href="https://github.com/Gpascual11/MD004_Estadistica">MD004 - Estadistica</a></h4>
       <p>Projects and exercises related to statistical modelling, inference and data analysis.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Statistics-blue" alt="Statistics">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Statistics-blue">
       </p>
       <hr>
       <h4><a href="https://github.com/Gpascual11/MD005_SBC">MD005 - Sistemes Basats en el Coneixement</a></h4>
       <p>Knowledge-based systems implementation and AI reasoning techniques.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI-Knowledge%20Systems-purple" alt="AI">
+        <img src="https://img.shields.io/badge/AI-Knowledge%20Systems-purple">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Gpascual11/Email_WPF">Email_WPF</a></h3>
+      <p>Email management application built using Windows Presentation Foundation (WPF) and C#, implementing desktop UI design principles and object-oriented architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-.NET-blueviolet">
+        <img src="https://img.shields.io/badge/WPF-Windows%20UI-blue">
       </p>
     </td>
   </tr>
 </table>
+
 
 
 
